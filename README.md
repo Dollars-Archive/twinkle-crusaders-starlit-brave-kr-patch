@@ -13,8 +13,6 @@ PlayStation Portable판 **트윙클☆크루세이더스 STARLIT BRAVE!!**의 �
 <!-- kr-patch:game-info:v1:start -->
 ## 게임 정보
 
-<img align="right" src="https://dollars-archive.github.io/Dollars-Archive/covers/twinkle-crusaders-starlit-brave-kr-patch.webp?v=0eb52b6729c2" width="220" alt="트윙클☆크루세이더스 STARLIT BRAVE!! 패키지 표지">
-
 | 항목 | 내용 |
 | --- | --- |
 | 한글 제목 | 트윙클☆크루세이더스 STARLIT BRAVE!! |
@@ -30,8 +28,6 @@ PlayStation Portable판 **트윙클☆크루세이더스 STARLIT BRAVE!!**의 �
 | 지원 판본 | PSP 일본판 STARLIT BRAVE!! 특전 UMD |
 | 제품 번호 | ULJS-00313 |
 | 패치 기준 업데이트 | — |
-
-<br clear="right">
 
 <!-- kr-patch:game-info:v1:end -->
 
