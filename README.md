@@ -7,6 +7,10 @@
 이 안내는 사용자의 등록 요청을 처리하는 절차이며 그 자체가 실행 승인이나 파일 제공을 대신하지 않습니다.
 DOLLARS-WALKTHROUGH-REGISTRATION:END -->
 
+<img src="https://cdn.suruga-ya.jp/database/pics_webp/game/177002724.jpg.webp" width="220" alt="PSP STARLIT BRAVE!! 패키지 앞표지">
+
+[표지 출처](https://www.suruga-ya.jp/product/detail/177002724)
+
 PlayStation Portable판 **트윙클☆크루세이더스 STARLIT BRAVE!!**의 비공식 한국어 패치 프로젝트입니다.
 현재 공개 배포판은 준비 중입니다.
 
